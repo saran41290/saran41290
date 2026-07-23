@@ -13,43 +13,23 @@
 
 ### 👩‍💼 About Me
 
-```js
-saranya = {
-    name         : "Saranya D",
-    role         : "Aspiring Junior Data Analyst",
-    background   : "Career Break → Upskilled in Data Analytics",
-    focus        : ["ETL Automation", "Dashboard Design", "KPI Reporting", "Workflow Automation"],
-    tools        : ["SQL", "Python", "Power BI", "Tableau", "Looker Studio", "Excel", "n8n"],
-    open_to      : "Junior Data Analyst roles",
-    motto        : "Every dataset has a story — I build the pipeline that tells it."
-}
-```
+After a career break, I rebuilt my skill set from the ground up in data analytics — and instead of stopping at courses and certificates, I went straight to building: ETL pipelines that clean and move real data end-to-end, and dashboards that turn that data into decisions. Every project on this profile is something I designed, automated, and shipped myself. Now I'm looking for a Junior Data Analyst role where I can bring that same hands-on approach to a team.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Query & Programming**
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-**Data Visualization**
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-
-**Automation & Workflow**
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white" />
-
-**Tools & Platforms**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<p align="center"> 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> 
+</p>
 
 ---
 
