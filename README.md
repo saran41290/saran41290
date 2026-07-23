@@ -1,21 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Saranya%20D&fontSize=60&fontColor=ffffff&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau&descSize=20&descAlignY=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Saranya%20D&fontSize=60&fontColor=ffffff&desc=Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Excel%20%C2%B7%20Power%20BI%20%C2%B7%20Tableau%20%C2%B7%20Lookr%20Studio&descSize=20&descAlignY=75" width="100%"/>
 </p>
 
 <h3 align="center">📈 Turning Raw Data into Clear, Actionable Insight</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/saranya-d-cse2012" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://saranya-d-portfolio.lovable.app" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-E97627?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/saran41290" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=saran41290&label=PROFILE+VIEWS&style=for-the-badge&color=4285F4" />
-</p>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/saranya-d-cse2012" target="_blank"> <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+  <a href="https://github.com/saran41290" target="_blank"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> 
+  <a href="https://saranya-d-portfolio.lovable.app" target="_blank"> <img src="https://img.shields.io/badge/PORTFOLIO-E97627?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <img src="https://komarev.com/ghpvc/?username=saran41290&label=PROFILE+VIEWS&style=for-the-badge&color=4285F4" /> </p>
 
 ---
 
